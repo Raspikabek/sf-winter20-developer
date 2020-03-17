@@ -4,12 +4,18 @@
 
 Components needed for [this trailhead](https://trailhead.salesforce.com/content/learn/modules/platform-developer-i-certification-maintenance-winter-20/get-handson-creating-custom-tabs-for-lightning-web-components)
 
+### Easy deployment
+
+[Click here to deploy in Salesforce](https://githubsfdeploy.herokuapp.com/app/githubdeploy/raspikabek/sf-winter20-developer)
+
+### Manual deployment
+
 1. Make sure you're connected to your Playground Trailhead org (or destination org selected to Check the challenge)
 
 1. Deploy the LWC `myComponent` into your Play org with sfdx
 1. Deploy the custom tab `Words` into your org sfdx
 
-OR
+### Manual deployment option 2
 
 Use the following command:
 
